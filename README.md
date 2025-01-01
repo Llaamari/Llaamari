@@ -2,7 +2,7 @@
 🚀 Software Developer | 💡 Starting my BE studies | 🎮 Video game enthusiast <br>
 🌍 Based in Finland
 
-🌱 I'm passioante in making websites mostly, enthusiastic about video games, and all things cosidering web. <br>
+🌱 I'm passionate in making websites mostly, enthusiastic about video games, and all things cosidering web. <br>
 💼 Currently waiting for my BE studies to start. <br>
 🚧 Always exploring new adventures and improving my skills.
 
