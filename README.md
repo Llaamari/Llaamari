@@ -1,9 +1,9 @@
 👋 Hello, I'm Laura <br>
-🚀 Software Developer | 💡 Starting my BE studies | 🎮 Video game enthusiast <br>
+🚀 Software Developer | 💡 BEng students | 🎮 Video game enthusiast <br>
 🌍 Based in Finland
 
 🌱 I'm passionate in making websites mostly, enthusiastic about video games, and all things cosidering web. <br>
-💼 Currently waiting for my BE studies to start. <br>
+💼 Currently I'm studying BEng in OAMK. <br>
 🚧 Always exploring new adventures and improving my skills.
 
 💬 Let's connect and collaborate on some awesome projects!
