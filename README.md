@@ -8,6 +8,5 @@
 
 💬 Let's connect and collaborate on some awesome projects!
 
-🔗 <a href="https://laurasimila.fi" target="_blank">My personal website (Under construction!)</a> <br>
 📄 <a href="https://drive.google.com/file/d/1YgTLONm_eYguEBw7YTgTMxK-Zk48D26l/view?usp=sharing" target="_blank">Resume</a> <br>
 👔 <a href="https://www.linkedin.com/in/laura-simila/" target="_blank">My LinkedIn profile</a>
