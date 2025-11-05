@@ -1,5 +1,5 @@
 👋 Hello, I'm Laura <br>
-🚀 Software Developer | 💡 BEng students | 🎮 Video game enthusiast <br>
+🚀 Software Developer | 💡 BEng student | 🎮 Video game enthusiast <br>
 🌍 Based in Finland
 
 🌱 I'm passionate in making websites mostly, enthusiastic about video games, and all things cosidering web. <br>
