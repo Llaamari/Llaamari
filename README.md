@@ -48,10 +48,4 @@ I enjoy visual projects, where I can see my own handiwork come alive.
 
 ---
 
-### 💬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-simila/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/507202378471047169)
-
----
-
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c9677d5c-3704-4c38-9644-096efe94a8ba" />
