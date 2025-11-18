@@ -26,7 +26,7 @@ I enjoy visual projects, where I can see my own handiwork come alive.
 
 #### Front-end
 ![Bash Script](https://img.shields.io/badge/Bash_Script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%23663399.svg?style=flat&logo=css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
