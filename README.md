@@ -8,17 +8,20 @@ I'm a software developer student who enjoys writing clean, maintainable code and
 ---
 
 ## 🛠️ Tech Stack
+### Languages
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%23663399.svg?style=flat&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Python, Node.js, C#, PHP
-- **Databases:** MySQL
-- **Tools:** VS Code, Git, GitHub, Postman, Chrome, Bash, Flask, WordPress
+### Version Control
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+### Hosting/SaaS
+![Github Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=flat&logo=github&logoColor=white)
 
 ---
 
 ## 🌱 Currently
 
-- Working on personal projects
+- Working on HTML/CSS/JS project
 - Improving C languages skill and coding in Qt
 - Learning to use Arduino and Linux
 
