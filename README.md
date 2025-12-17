@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Laura
 
-<!--
-**Llaamari/Llaamari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer  
+📍 Finland, Oulu
 
-Here are some ideas to get you started:
+I'm a software developer student who enjoys writing clean, maintainable code and building practical solutions. I'm especially interested in modern web development and I'm continuously learning new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- **Favorite Languages:** JavaScript / HTML / CSS
+- **Frontend:** React
+- **Backend:** Python
+- **Databases:** MySQL, MariaDB
+- **Tools:** VS Code, GitHub Copilot, GitHub
+
+---
+
+## 🌱 Currently
+
+- Working on personal projects
+- Improving C languages skill and coding in Qt
+- Learning to use Arduino and Linux
+
+---
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/laura-simila/)
+
+---
+
+⭐️ Thanks for visiting my profile!
