@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Laura
+![soft](https://capsule-render.vercel.app/api?type=soft&text=👋%20Hi,%20I'm%20Laura&fontAlign=50&fontSize=30&theme=default&animation=twinkling&)
 
 💻 Software Developer  
 📍 Finland, Oulu
@@ -9,11 +9,10 @@ I'm a software developer student who enjoys writing clean, maintainable code and
 
 ## 🛠️ Tech Stack
 
-- **Favorite Languages:** JavaScript / HTML / CSS
-- **Frontend:** React
-- **Backend:** Python
-- **Databases:** MySQL, MariaDB
-- **Tools:** VS Code, GitHub Copilot, GitHub
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Python, Node.js, C#, PHP
+- **Databases:** MySQL
+- **Tools:** VS Code, Git, GitHub, Postman, Chrome, Bash, Flask, WordPress
 
 ---
 
@@ -31,4 +30,5 @@ I'm a software developer student who enjoys writing clean, maintainable code and
 
 ---
 
-⭐️ Thanks for visiting my profile!
+⭐️ Thanks for visiting my profile!<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWt5ZnRwdzY1MTl0bnpxY3czeWFzZWtwNWJ2bm5kd2FpY3o4Zmw5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif"/>
