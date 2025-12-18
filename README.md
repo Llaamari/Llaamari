@@ -18,7 +18,7 @@ I'm a software developer student who enjoys writing clean, maintainable code and
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=flat&logo=github&logoColor=white)
 
 ### Other
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=GoogleChrome&logoColor=#FF7139)](https://llaamari.github.io/portfolio/)
 
 ---
 
