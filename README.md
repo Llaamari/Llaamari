@@ -16,6 +16,8 @@ I'm a software developer student who enjoys writing clean, maintainable code and
 ![YAML](https://img.shields.io/badge/YAML-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### Version Control
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -23,6 +25,9 @@ I'm a software developer student who enjoys writing clean, maintainable code and
 
 ### Hosting/SaaS
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
+### IDEs/Editors
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### Databases
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -49,14 +54,15 @@ I'm a software developer student who enjoys writing clean, maintainable code and
 ### Other
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=GoogleChrome&logoColor=#FF7139)](https://llaamari.github.io/portfolio/)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
 
 ## 🌱 Currently
 
-- Working on HTML/CSS/JS project
-- Improving C languages skill and coding in Qt
-- Learning to use Arduino and Linux
+- Working on ATM system project
+- Improving database, Node.js and user interface skills
+- Learning to use version management
 
 ---
 
