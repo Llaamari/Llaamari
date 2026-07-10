@@ -1,7 +1,7 @@
 ![soft](https://capsule-render.vercel.app/api?type=soft&text=👋%20Hi,%20I'm%20Laura&fontAlign=50&fontSize=30&theme=default&animation=twinkling&)
 
-💻 Software R&D Trainee @ Nokia
-🎓 Software Development Student at Oulu University of Applied Sciences (OAMK)
+💻 Software R&D Trainee @ Nokia<br>
+🎓 Software Development Student at Oulu University of Applied Sciences (OAMK)<br>
 📍 Finland, Oulu
 
 ---
